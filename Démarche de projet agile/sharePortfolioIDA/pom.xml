@@ -7,6 +7,7 @@
     <packaging>jar</packaging>
     
     <name>${project.groupId}:${project.artifactId}</name>
+    
     <description>This library … .</description>
     <url>https://github.com/zazahra24/SharePortfolioIDACFGE</url>
     
